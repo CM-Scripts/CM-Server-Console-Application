@@ -12,4 +12,6 @@ I embarked on the journey of developing a FiveM Server Console with a mission to
 Make sure your FXServer.exe is in C:\FiveMServer directory.
 ![image](https://github.com/CM-Scripts/CM-Server-Console-Application/assets/128427336/3d87808e-8fdd-43f8-9f4b-a3f40c20f1e7)
 
-then you should be sweet to run the 
+then you should be sweet to run the Launcher.exe 
+
+any issues message me on discord
